@@ -1,1 +1,2 @@
-"Jonathan Fernandez" 
+"Jonathan Fernandez"
+fernajon@oregonstate.edu 
